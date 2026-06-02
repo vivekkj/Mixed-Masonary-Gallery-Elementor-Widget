@@ -3,7 +3,7 @@
  * Plugin Name: Elementor Mixed Masonry Gallery
  * Description: Custom Elementor widget for mixed image and video masonry gallery with responsive custom lightbox carousel.
  * Version: 1.0.5
- * Author: Vivek
+ * Author: <a href="https://vivek.expert">Vivek Jayakrishnan</a>
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
